@@ -1,2 +1,5 @@
-# Stanford_cs231n
-Working through the homework 
+CS231n: Convolutional Neural Networks for Visual Recognition
+---
+
+Working through the Winter 2016 assignments.
+
